@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+catboost_info/
+
+*.pyc
+
+data/
+freight-rate-ml-assessment.pdf
+
+validation_predictions.csv
+Spotter_Freight_Rate_ML_Report.pdf
